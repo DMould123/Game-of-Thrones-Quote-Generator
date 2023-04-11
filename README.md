@@ -4,8 +4,9 @@ This is a simple web app that generates random quotes from your favorite Game of
 ## Technologies Used
 HTML,
 CSS,
+JavaScript
 
-FontAwesome
+FontAwesome Icons
 
 ## Installation
 
